@@ -1,7 +1,7 @@
 # Visual Studio Code epic hints! (:collision:under development)
 Epic hints for Visual Studio Code. What to do and what not to do for efficient development
 ## Contents:
-1. Introduction
+1. [Introduction](#introduction)
 2. Setup VSCode
 3. Recommended Extensions
 4. Epic Keyboard Shortcuts
